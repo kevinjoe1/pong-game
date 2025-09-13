@@ -11,7 +11,6 @@ pong-game/
 ├── splitturt.py    # Midline divider
 ├── main.py         # Main game loop (where you run everything)
 
----
 
 
 ## 🚀 Features
